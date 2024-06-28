@@ -1,0 +1,45 @@
+[
+    {
+      "title": "Fruits",
+      "data" : [
+        {"name":"Apple", "image": "https://images.pexels.com/photos/39803/pexels-photo-39803.jpeg?cs=srgb&dl=apple-food-fruit-39803.jpg&fm=jpg"},
+        {"name" : "Banana", "image": "https://tse2.mm.bing.net/th?id=OIP.O8lKDwWSZP_Cfm8eeyw3wAHaFu&pid=Api&P=0&h=180" },
+        {"name": "Orange", "image": "https://media1.popsugar-assets.com/files/thumbor/JfGtd8uOgKnzbXMTg03DJPzU70k/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2012/11/47/1/192/1922195/574f46474ab2683d_shutterstock_49887109/i/Oranges.jpg" }
+      ]
+
+    },
+    {
+      "title": "Vegetables",
+      "data" : [
+        {"name":"Carrot","image":"https://www.popoptiq.com/wp-content/uploads/2019/01/danvers-carrots-jan072019-min.jpg"},
+        {"name":"Broccoli","image":"https://tse3.mm.bing.net/th?id=OIP.zFQRthZFZxPI36Ao0BKdKAHaHi&pid=Api&P=0&h=180"},
+        {"name":"Lettuce","image":"https://tse2.mm.bing.net/th?id=OIP.ATvon4kZP-hlbZzFlaf9XQHaHa&pid=Api&P=0&h=180"}
+       ]
+    },
+    {
+        "title": "Non-Veg",
+        "data" : [
+            {"name":"Fish","image":"https://vaya.in/recipes/wp-content/uploads/2018/04/Kerala-Fish-Curry.jpg"},
+            {"name":"Chicken","image":"https://tse2.mm.bing.net/th?id=OIP.pTuiU7Exn9yaJFYx2um2mwHaJ3&pid=Api&P=0&h=180"},
+            {"name":"Chicken Fry","image":"https://i0.wp.com/www.gofooddy.com/wp-content/uploads/2018/08/Dry-Chicken-Curry.jpg?fit=1600%2C900&ssl=1"}
+        ]
+      },
+      {
+        "title": "Non-Veg1",
+        "data" : [
+            {"name":"Fish","image":"https://vaya.in/recipes/wp-content/uploads/2018/04/Kerala-Fish-Curry.jpg"},
+            {"name":"Chicken","image":"https://tse2.mm.bing.net/th?id=OIP.pTuiU7Exn9yaJFYx2um2mwHaJ3&pid=Api&P=0&h=180"},
+            {"name":"Chicken Fry","image":"https://i0.wp.com/www.gofooddy.com/wp-content/uploads/2018/08/Dry-Chicken-Curry.jpg?fit=1600%2C900&ssl=1"}
+        ]
+      },
+      {
+        "title": "Non-Veg2",
+        "data" : [
+            {"name":"Fish","image":"https://vaya.in/recipes/wp-content/uploads/2018/04/Kerala-Fish-Curry.jpg"},
+            {"name":"Chicken","image":"https://tse2.mm.bing.net/th?id=OIP.pTuiU7Exn9yaJFYx2um2mwHaJ3&pid=Api&P=0&h=180"},
+            {"name":"Chicken Fry","image":"https://i0.wp.com/www.gofooddy.com/wp-content/uploads/2018/08/Dry-Chicken-Curry.jpg?fit=1600%2C900&ssl=1"}
+        ]
+      }
+   
+  ]
+  
